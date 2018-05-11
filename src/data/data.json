@@ -36,34 +36,6 @@
 
       },
 
-	  {
-
-        "id": 2,
-
-        "name": "Alexei",
-
-        "surname": "Sidorov",
-
-        "age": 42,
-
-        "isDegree": true
-
-      },
-
-      {
-
-        "id": 3,
-
-        "name": "Michael",
-
-        "surname": "Jackson",
-
-        "age": 34,
-
-        "isDegree": true
-
-      },
-
       {
 
         "id": 4,
